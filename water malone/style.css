@@ -61,6 +61,13 @@ h1{
     text-shadow: -2px 2px #fff;
 }
 
+h1:hover, h1:active{
+    color: #ff5761;
+    background-color: transparent;
+    text-decoration: none;
+    text-shadow: -5px 5px #fff;
+}
+
 .text{
     grid-column: 1/2;
     grid-row: 2/3;
